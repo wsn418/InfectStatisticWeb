@@ -9,7 +9,7 @@ export default function buildLineConfig (xAxis, dataConfirm, dataSuspect, dataDe
       left: '0'
     },
     grid: {
-      left: '4%',
+      left: '3%',
       right: '4%',
       bottom: '3%',
       containLabel: true
