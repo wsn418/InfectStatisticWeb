@@ -22,7 +22,7 @@ export default function buildMapData (province) {
 
   if (province) {
     require(`echarts/map/js/province/${provincePinyin}`)
-    // ECharts.registerMap(provincePinyin, provinceMape)
+    // ECharts.registerMap(provincePinyin, provinceMap)
 
     const index = provinces.findIndex(p => {
       return p.name === province
