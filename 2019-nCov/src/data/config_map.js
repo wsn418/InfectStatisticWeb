@@ -11,7 +11,7 @@ export default function buildMapConfig (province, data) {
       left: province ? '3%' : 'auto',
       inRange: {
         color: [
-          '#ffc0b2',
+          '#ffc0b1',
           '#ff8c71',
           '#ef1717',
           '#9c0505'
