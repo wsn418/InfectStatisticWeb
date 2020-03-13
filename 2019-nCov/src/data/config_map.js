@@ -39,7 +39,7 @@ export default function buildMapConfig (province, data) {
       label: {
         show: true,
         position: 'inside',
-        fontSize: 7
+        fontSize: 6
       },
       mapType: province || 'china',
       data: data,
