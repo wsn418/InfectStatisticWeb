@@ -32,7 +32,7 @@ function transformChinaData (provinces) {
     
   })
 
-  //  console.log(provinces)
+  //  console.log(provincese)
 }
 
 function getData () {
