@@ -15,7 +15,7 @@
 1. 数据来自 [腾讯新闻JSON](https://view.inews.qq.com/g2/getOnsInfo?name=disease_h5)
 2. 图表以及地图采用echarts插件(引入了vue-eaharts模块).
 3. VUE项目
-5. [在线演示]()
+5. [在线演示](http://ncov.sunaner.wang/#/)
 
 
 ### 快速开始
