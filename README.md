@@ -1,3 +1,15 @@
+### 作业信息
+
+| 这个作业属于哪个课程 |[2020春w班（福州大学）](https://edu.cnblogs.com/campus/fzu/2020SpringW)|
+| -------------------- | ---------------------------------------------------- |
+| 这个作业要求在哪里   | [作业要求](https://edu.cnblogs.com/campus/fzu/2020SpringW/homework/10456) |
+|结对学号|221701418&221701435|
+| 这个作业的目标       | 某次疫情统计可视化的实现                           |
+| 作业正文             | ....                                                 |
+| 其他参考文献         | [手机适配](http://npm.taobao.org/package/resize-detector) [灵感](https://github.com/BlankerL/DXY-COVID-19-Crawler)                                                  |
+
+
+
 ### 程序基本介绍
 
 1. 数据来自 [腾讯新闻JSON](https://view.inews.qq.com/g2/getOnsInfo?name=disease_h5)

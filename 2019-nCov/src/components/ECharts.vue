@@ -1,13 +1,15 @@
 <template>
+
   <div class="echarts" />
+
 </template>
 
 <style>
+
 .echarts {
   width: 1000px;
   height: 500px;
-  margin-left: 220px;
-}
+  }
 </style>
 
 <script>
